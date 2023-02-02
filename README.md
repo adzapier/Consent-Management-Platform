@@ -6,8 +6,7 @@
 
 ### Consent Preference Management
 * <a href="https://adzapier.com/consent-preference-management/" target="_blank">https://adzapier.com/consent-preference-management/</a>
-* <a href="https://github.com/adzapier/Consent-Management-Platform/tree/main/Consent-Preference" target="_blank">
-https://github.com/adzapier/Consent-Management-Platform/tree/main/Consent-Preference</a>
+* <a href="https://github.com/adzapier/Consent-Management-Platform/tree/main/Consent-Preference" target="_blank">https://github.com/adzapier/Consent-Management-Platform/tree/main/Consent-Preference</a>
 
 ### DSAR Management
 * <a href="https://adzapier.com/dsar-management/" target="_blank">https://adzapier.com/dsar-management/</a>
