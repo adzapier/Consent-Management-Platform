@@ -15,3 +15,7 @@
 ### Social Fortuna Management
 * <a href="https://adzapier.com/social-fortuna/" target="_blank">https://adzapier.com/social-fortuna/</a>
 * <a href="https://github.com/adzapier/Consent-Management-Platform/tree/main/Social-Fortuna" target="_blank">https://github.com/adzapier/Consent-Management-Platform/tree/main/Social-Fortuna</a>
+
+### android_cmp_sdk
+* Android CMP sdk to support CCPA, CCPA generic, GDPR compliance's
+* Instruction manual to integrate Adzapier Privacy Manager with your mobile app - <a href="https://support.adzapier.com/help-center/articles/77/how-to-integrate-adzapier-privacy-manager-with-your-mobile-app" target="_blank">https://support.adzapier.com/help-center/articles/77/how-to-integrate-adzapier-privacy-manager-with-your-mobile-app</a>
